@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 32px;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+
+  &-logo {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+
+    img {
+      height: 24px;
+      margin-right: 10px;
+    }
+
+    span {
+      font-size: 20px;
+      font-weight: bold;
+      letter-spacing: -0.02em;
+
+      .header-highlight {
+        color: #0056b3; // Adjust the color to match the blue in the image
+      }
+    }
+  }
+
+  &-notification {
+    display: flex;
+    align-items: center;
+
+    input {
+      padding: 5px 10px;
+      border: 1px solid #ddd;
+      border-right: none; // Remove right border to merge with button
+      border-radius: 10px 0 0 10px; // Adjust border-radius to merge with button
+      height: 40px;
+    }
+
+    button {
+      padding: 5px 10px;
+      background-color: #0056b3; // Adjust the color to match the blue in the image
+      color: #fff;
+      border: 1px solid #0056b3; // Add border to match input field
+      border-radius: 0 10px 10px 0; // Adjust border-radius to merge with input
+      cursor: pointer;
+      height: 40px;
+
+      &:hover {
+        background-color: #004494; // Slightly darker shade for hover effect
+      }
+    }
+  }
+}

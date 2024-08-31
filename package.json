@@ -2,7 +2,7 @@
   "name": "cs3216-a1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nknguyenhc.github.io/cs3216-a1",
+  "homepage": "https://nknguyenhc.github.io/cs3216-a1/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

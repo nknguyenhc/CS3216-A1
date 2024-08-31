@@ -9,13 +9,11 @@
     },
     {
       "src": "logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "type": "image/png"
     },
     {
-      "src": "logo.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "logo.svg",
+      "type": "image/svg+xml"
     }
   ],
   "start_url": ".",
