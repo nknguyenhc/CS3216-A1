@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CS3216-A1/static/css/main.a71d8ffb.css",
+    "main.css": "/CS3216-A1/static/css/main.8f1decb6.css",
     "main.js": "/CS3216-A1/static/js/main.33dc8dd7.js",
     "static/js/453.18903f5c.chunk.js": "/CS3216-A1/static/js/453.18903f5c.chunk.js",
     "static/media/personalised.svg": "/CS3216-A1/static/media/personalised.af7ed28858d6d76b4f3801e479d0f831.svg",
@@ -27,12 +27,12 @@
     "static/media/github.svg": "/CS3216-A1/static/media/github.8055aeede42a065e64c109beba225a05.svg",
     "static/media/facebook.svg": "/CS3216-A1/static/media/facebook.96b617c3f48510025129901a5671ee31.svg",
     "static/media/chevron-down.svg": "/CS3216-A1/static/media/chevron-down.04c7f34c4fc59abb2dbf12ad65d2d78f.svg",
-    "main.a71d8ffb.css.map": "/CS3216-A1/static/css/main.a71d8ffb.css.map",
+    "main.8f1decb6.css.map": "/CS3216-A1/static/css/main.8f1decb6.css.map",
     "main.33dc8dd7.js.map": "/CS3216-A1/static/js/main.33dc8dd7.js.map",
     "453.18903f5c.chunk.js.map": "/CS3216-A1/static/js/453.18903f5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a71d8ffb.css",
+    "static/css/main.8f1decb6.css",
     "static/js/main.33dc8dd7.js"
   ]
 }
