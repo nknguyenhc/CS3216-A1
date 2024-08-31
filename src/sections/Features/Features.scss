@@ -1,0 +1,40 @@
+.features {
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  padding: 120px 0px;
+  align-items: center;
+  background-color: $b-3;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: row;
+  width: 1078px;
+  justify-content: space-between;
+
+  &-reverse {
+    flex-direction: row-reverse;
+  }
+
+  &-text {
+    max-width: 450px;
+
+    h2 {
+      color: white;
+      font-size: 32px;
+      line-height: 36px;
+    }
+
+    p {
+      color: #f3f3f3;
+      opacity: 0.8;
+    }
+  }
+
+  &-header {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+  }
+}
