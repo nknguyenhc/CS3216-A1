@@ -1,5 +1,20 @@
+$b-1: #0a1233;
+$b-2: #0c1740;
+$b-3: #111f55;
+$b-4: #15266b;
+$b-5: #162a73;
+$b-6: #2647c4;
+$b-7: #7f94e6;
+$b-8: #bfcaf2;
+$b-9: #d4dbf6;
+
 * {
   font-family: 'Inter', sans-serif;
   font-size: 16px;
   box-sizing: border-box;
+  color: $b-1;
 }
+
+@import './components/GetNotified/GetNotified.scss';
+@import './sections/Header/Header.scss';
+@import './sections/Introductions/Introductions.scss';
