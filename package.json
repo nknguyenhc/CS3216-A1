@@ -2,7 +2,7 @@
   "name": "cs3216-a1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nknguyenhc.github.io/cs3216-a1/",
+  "homepage": "https://nknguyenhc.github.io/CS3216-A1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -19,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
