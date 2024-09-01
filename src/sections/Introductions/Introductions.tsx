@@ -1,8 +1,8 @@
 import GetNotified from '../../components/GetNotified/GetNotified';
-import heroImage from '../../assets/images/hero-image.svg';
-import nusLogo from '../../assets/logos/nus.svg';
-import smuLogo from '../../assets/logos/smu.svg';
-import ntuLogo from '../../assets/logos/ntu.svg';
+import heroImage from '../../assets/images/hero-image.png';
+import nusLogo from '../../assets/logos/nus.png';
+import smuLogo from '../../assets/logos/smu.png';
+import ntuLogo from '../../assets/logos/ntu.png';
 import longLogo from '../../assets/logos/long-logo.svg';
 
 const Introductions = (): JSX.Element => {

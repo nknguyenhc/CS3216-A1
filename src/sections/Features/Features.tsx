@@ -1,9 +1,9 @@
 import personalised from '../../assets/logos/personalised.svg';
 import community from '../../assets/logos/community.svg';
 import insightful from '../../assets/logos/insightful.svg';
-import personalisedImage from '../../assets/images/personalised.svg';
-import communityImage from '../../assets/images/community.svg';
-import insightfulImage from '../../assets/images/insightful.svg';
+import personalisedImage from '../../assets/images/personalised.png';
+import communityImage from '../../assets/images/community.png';
+import insightfulImage from '../../assets/images/insightful.png';
 
 type FeatureType = {
   adjective: string;
